@@ -1,0 +1,8 @@
+Origin: REI's リポジトリ
+Label: REI
+Suite: stable
+Version: 1.0
+Codename: REI
+Architectures: iphoneos-arm
+Compornent: main
+Description: REIのリポジトリです
