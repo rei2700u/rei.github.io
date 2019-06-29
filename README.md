@@ -1,2 +1,1 @@
-# rei.github.io
-Sileo.Cydia/repo
+# REI's Repo (Cydia or Sileo)
